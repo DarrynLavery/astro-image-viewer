@@ -1,0 +1,27 @@
+
+/* Toolbar icons above the image 
+    Needed to ensure that the toolbar and Open Sea Dragon control display correctly
+    Taken from 
+      https://openseadragon.github.io/examples/ui-binding-custom-buttons
+*/
+ 
+
+.toolbar
+{
+    width:      800px;
+    height:     33px;
+    border:     none;
+    color:      #333;
+    padding:    4px;
+    background-color: transparent;
+}
+.toolbar.fullpage{
+    width:      100%;
+    border:     none;
+    position:   fixed;
+    z-index:    999999;
+    left:       0;
+    top:        0;
+    background-color: #ccc;
+}
+

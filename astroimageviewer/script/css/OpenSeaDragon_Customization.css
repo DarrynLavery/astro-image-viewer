@@ -1,0 +1,31 @@
+
+
+
+
+#IMGCTL_CustomToolbar img
+{
+height: 24px;
+width: 24px
+}
+
+
+
+#IMGCTL_popmenu table, td {
+    padding: 0 !important;
+    border: 0 !important;
+
+
+ }
+#IMGCTL_popmenu table, td {
+    padding: 0 !important;
+    border: 1 !important;
+
+
+ }
+
+/*
+#IMGCTL_ImageViewerController table, td {
+    border: 0 !important;
+ }
+
+*/
